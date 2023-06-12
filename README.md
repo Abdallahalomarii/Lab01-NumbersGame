@@ -18,4 +18,4 @@
 	      ##### just follow the instruction in the console and you good to go 
 		  ##### remember to put only integer numbers
 - ### what does the program look like
-!(visual view for my output)[numbersgame.png]
+![visual view for my output](https://github.com/Abdallahalomarii/Lab01-NumbersGame/blob/master/numbersgame.png)
